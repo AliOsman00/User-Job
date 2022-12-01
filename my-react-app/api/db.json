@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": "unique-1",
+            "name": "Ali Tashak",
+            "salary": "5000",
+            "department": "Scientist"
+          },
+          {
+            "id": "unique-2",
+            "name": "Ali Chad",
+            "salary": "8000",
+            "department": "Actor"
+          },
+          {
+           "id": "unique-3",
+            "name": "Ali Dishlice",
+            "salary": "6000",
+            "department": "Programmer"
+          }
+    ]
+}
